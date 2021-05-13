@@ -22,3 +22,4 @@ struct DnaProperties {
 ## Existing implementations
 
 - [membrane_roles](https://github.com/holochain-open-dev/membrane-roles/blob/main/zome/zomes/membrane_roles/src/progenitor.rs#L5)
+- [peer-share](https://github.com/holochain-in-action/peer-share/blob/main/holo-layer/zomes/peershare/src/helpers/progenitor.rs)
